@@ -1,11 +1,17 @@
 body {
   font-family: 'quicksand', sans-serif !important;
+  font-size: 14px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
   font-family: 'quicksand', sans-serif !important;
 }
 
 p {
-    font-family: 'quicksand', sans-serif !important;
+  font-family: 'quicksand', sans-serif !important;
+  font-size: 14px;
 }
+
+/* li, span, a, label, td, th, blockquote, figcaption {
+  font-size: 14px;
+} */

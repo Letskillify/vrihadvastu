@@ -98,7 +98,7 @@ const AboutLegacy = () => {
               <Sparkles className="w-3.5 h-3.5 text-[#C9A14A]" />
               <p className="font-['Inter'] text-sm uppercase tracking-[0.2em] text-gray-400 font-medium">Years Active</p>
             </div>
-            <p className="font-['Cinzel'] text-3xl sm:text-4xl font-bold text-[#C9A14A] leading-none mt-1">25+</p>
+            <p className="font-['Cinzel'] text-3xl sm:text-4xl font-bold text-[#C9A14A] leading-none mt-1">10+</p>
             <div className="h-[1px] w-full bg-white/10 my-2" />
             <p className="font-['Inter'] text-sm uppercase tracking-[0.15em] text-gray-300 font-light leading-relaxed">Vastu & Earth Energetics</p>
           </motion.div>
@@ -185,7 +185,7 @@ const AboutLegacy = () => {
             {/* Timeline Column */}
             <div className="md:col-span-7 flex flex-col gap-2 relative z-10">
               <TimelineNode
-                year="2000"
+                year="2016"
                 title="Our Start"
                 description="We started Vrihad Vastu in Indore, offering space planning and architectural consulting."
                 delay={0.1}
